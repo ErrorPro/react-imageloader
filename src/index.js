@@ -1,6 +1,6 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
-const {PropTypes} = React;
 const {span} = React.DOM;
 
 const Status = {

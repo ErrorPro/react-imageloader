@@ -43,7 +43,8 @@
     "yargs": "^3.11.0"
   },
   "peerDependencies": {
-    "react": ">=0.13"
+    "react": ">=0.13",
+    "prop-types": ">=15.5.10"
   },
   "dependencies": {}
 }
